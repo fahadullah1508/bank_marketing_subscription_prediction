@@ -1,4 +1,4 @@
-# Task 1: Term Deposit Subscription Prediction
+# Term Deposit Subscription Prediction
 
 ## Overview
 Predict whether a bank customer will subscribe to a term deposit as a result of a marketing campaign using the Bank Marketing Dataset from UCI Machine Learning Repository.
